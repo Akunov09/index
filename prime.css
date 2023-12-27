@@ -1,0 +1,83 @@
+.table{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    height: 500px;
+    position: relative;
+    left: 400px;
+    top: -600px;
+    text-align: center;
+    border-radius: 20px;
+   
+}
+.ikons{
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    width: 100px;
+    height: 497px;
+    border: 3px solid white;
+}
+.names{
+    width: 500px;
+    height: 497px;
+    border: 3px solid white;
+}
+.number{
+    border: 3px solid white;
+    width: 500px;
+    height: 497px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.bi-telephone{
+    font-size: 80px;
+  
+    color:white;
+}
+.bi-whatsapp{
+    font-size: 80px;
+    color: white;
+
+}
+.bi-telegram{
+    font-size: 80px;
+    color: white;
+  
+}
+.bi-instagram{
+    font-size: 80px;
+    color: white;
+    
+}
+.tele{
+    font-size: 80px;
+    font-family: 'Algerian';
+    color: white;
+  
+}
+.whats{
+    font-size: 80px;
+    font-family: 'Algerian';
+    color: white;
+  
+}
+.tgm{
+    font-size: 80px;
+    font-family: 'Algerian';
+    color: white;
+  
+
+}
+.ins{
+    font-size: 80px;
+    font-family: 'Algerian';
+    color: white;
+  
+}
+.telen{
+    margin-top: 15px;
+    font-size: 50px;
+    color: white;
+    font-family: 'Algerian';
+
+}
